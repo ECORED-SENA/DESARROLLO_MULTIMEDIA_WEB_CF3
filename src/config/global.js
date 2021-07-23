@@ -373,6 +373,12 @@ export default {
         cargo: 'Producción audiovisual',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona ',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
     ],
     gestoresRepositorio: [
       {
