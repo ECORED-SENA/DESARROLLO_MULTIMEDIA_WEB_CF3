@@ -26,7 +26,7 @@
         .bloque-texto-a.color-acento-botones.p-4.p-md-5(data-aos="flip-left") 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
-              img(src='@/assets/curso/t1/f6.svg' alt="Personas en varios dispositivos")
+              img(src='@/assets/curso/t1/f7.svg' alt="Personas en varios dispositivos")
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p Determinar las necesidades es fundamental para cuantificar los elementos y las características que deben tener los proyectos, los tiempos de entrega y los factores que serán causas y efectos del proyecto.
@@ -36,37 +36,37 @@
         figure
           img(src='@/assets/curso/t1/i-infografica1.jpg', alt='Necesidades en la planeación de proyectos')
           //figcaption Leyenda de la imagen
-      .tarjeta-avatar.infografica.mb-5(x="28%" y="85%")
+      .tarjeta-avatar.infografica.mb-5(x="27.5%" y="84.5%")
         img(src='@/assets/curso/t1/c1.svg' alt='1')
         .tarjeta.color-primario
           .p-4
             p.text-center ¿Se ha delimitado el problema?
-      .tarjeta-avatar.infografica.mb-5(x="20.4%" y="54.5%")
+      .tarjeta-avatar.infografica.mb-5(x="19.7%" y="53.7%")
         img(src='@/assets/curso/t1/c2.svg' alt='2')
         .tarjeta.color-primario
           .p-4
             p.text-center ¿Se han definido costos y presupuestos?
-      .tarjeta-avatar.infografica.mb-5(x="24.5%" y="26%")
+      .tarjeta-avatar.infografica.mb-5(x="24%" y="25%")
         img(src='@/assets/curso/t1/c3.svg' alt='3')
         .tarjeta.color-primario
           .p-4
             p.text-center ¿Se han definido las actividades del proyecto?
-      .tarjeta-avatar.infografica.mb-5(x="53.4%" y="6.8%")
+      .tarjeta-avatar.infografica.mb-5(x="53%" y="6%")
         img(src='@/assets/curso/t1/c4.svg' alt='4')
         .tarjeta.color-primario
           .p-4
             p.text-center ¿Cuántas personas esperamos que accedan al producto?
-      .tarjeta-avatar.infografica.mb-5(x="70.5%" y="25.8%")
+      .tarjeta-avatar.infografica.mb-5(x="70.2%" y="25%")
         img(src='@/assets/curso/t1/c5.svg' alt='5')
         .tarjeta.color-primario
           .p-4
             p.text-center ¿Cuál es el nivel de demanda, sobre productos similares?
-      .tarjeta-avatar.infografica.mb-5(x="77%" y="54.5%")
+      .tarjeta-avatar.infografica.mb-5(x="76.5%" y="54%")
         img(src='@/assets/curso/t1/c6.svg' alt='6')
         .tarjeta.color-primario
           .p-4
-            p.text-center ¿Cuántas personas esperamos que accedan al producto?
-      .tarjeta-avatar.infografica.mb-5(x="71.5%" y="85%")
+            p.text-center ¿Se ha delimitado el problema?
+      .tarjeta-avatar.infografica.mb-5(x="71.3%" y="84.4%")
         img(src='@/assets/curso/t1/c7.svg' alt='7')
         .tarjeta.color-primario
           .p-4
@@ -97,7 +97,7 @@
             ul.lista-ul
               li
                 i.fas.fa-angle-right.cab
-                p Están estrechamente relacionados con los factores de riesgo o las causas asociadas al problema o necesidad es directa.<br><br>Se suele tener un solo objetivo general o un objetivo global, (aunque no siempre es la regla), siendo esta la meta principal, dándole sentido al conjunto, pero siempre apoyado de los objetivos específicos; se puede hablar de una meta central.
+                p Están estrechamente relacionados con los factores de riesgo o las causas asociadas al problema o necesidad es directa. Se suele tener un solo objetivo general o un objetivo global, (aunque no siempre es la regla), siendo esta la meta principal, dándole sentido al conjunto, pero siempre apoyado de los objetivos específicos; se puede hablar de una meta central.
               li
                 i.fas.fa-angle-right.cab
                 p La redacción de este objetivo suele ser una oración concreta, partiendo de la visión global del proyecto, dando respuestas, lo posible, a preguntas como ¿Qué? y deberá redactarse siempre comenzando con verbos en infinitivo (terminados en -ar -er o -ir).
@@ -115,10 +115,10 @@
             ul.lista-ul
               li
                 i.fas.fa-angle-right.cab
-                p Comprenden metas más concretas que, una vez alcanzadas, permiten conseguir el objetivo general.<br><br>Por medio de estos, se puede identificar de forma más específica la meta que se pretende alcanzar en la ejecución del proyecto.
+                p Comprenden metas más concretas que, una vez alcanzadas, permiten conseguir el objetivo general. Por medio de estos, se puede identificar de forma más específica la meta que se pretende alcanzar en la ejecución del proyecto.
               li
                 i.fas.fa-angle-right.cab
-                p Estos objetivos también se deben redactar con verbos de acción y deben responder de forma práctica, realista y definida.<br><br>Deben también introducir datos cuantitativos que serán de gran utilidad para evaluar el proyecto por ser medibles y servirán para la toma posterior de decisiones.
+                p Estos objetivos también se deben redactar con verbos de acción y deben responder de forma práctica, realista y definida. Deben también introducir datos cuantitativos que serán de gran utilidad para evaluar el proyecto por ser medibles y servirán para la toma posterior de decisiones.
           .col-md-4.mx-auto
             figure
               img(src='@/assets/curso/t1/i6.png', alt='Tablero')
@@ -162,32 +162,32 @@
             p Generalmente la organización de las actividades se estructurará por niveles, permitiendo una organización de todos sus componentes.
           .col-md-4.mx-auto
             img(src='@/assets/curso/t1/f14.svg', alt='Imagen relacionada')
-        .row(numero="4" titulo="Características de la WBS")
-          .col-md-12.mb-4.mb-md-0
+        .row.align-items-center(numero="4" titulo="Características de la WBS")
+          .col-lg-6.mb-4.mb-md-0
             ul.lista-ul
-              li
+              li.mb-0
                 i.fas.fa-angle-right.cab
                 p En el momento de la asignación de las actividades en los niveles de trabajo, estas deben ser asignadas en uno solo sin repetirlas.
-              li
+              li.mb-0
                 i.fas.fa-angle-right.cab
                 p La relación entre tareas debe estar claramente identificada.
-              li
+              li.mb-0
                 i.fas.fa-angle-right.cab
                 p Los resultados en todos los niveles deben ser cuantificables.
-              li
+              li.mb-0
                 i.fas.fa-angle-right.cab
                 p Se debe tener control sobre todas las tareas por más simples que estén planteadas.
-              li
+              li.mb-0
                 i.fas.fa-angle-right.cab
                 p Cualquier proyecto se plantea desde tareas divididas para facilitar la planificación y el control de las mismas.
-              li
+              li.mb-0
                 i.fas.fa-angle-right.cab
                 p La estructura WBS permite la jerarquización y organización de las tareas del proyecto y su progreso.
-              li
+              li.mb-0
                 i.fas.fa-angle-right.cab
                 p Los hitos dividen el proyecto en segmentos lógicos y medibles.
-            .col-md-6.mb-4.mx-auto
-              img(src='@/assets/curso/t1/f15.svg', alt='Características de la WBS')
+          .col-lg-6.mb-4.mx-auto
+            img(src='@/assets/curso/t1/f15.svg', alt='Características de la WBS', style="width:450px;").m-auto
         .row(numero="5" titulo="Diagrama de Gantt")
           .col-md-6.mb-4.mb-md-0
             p Es uno de los métodos más útiles para hacer seguimiento estructurado a cada actividad en una relación o escala de tiempo.
@@ -203,7 +203,7 @@
                 p Conocimiento total del proyecto y sus actividades para la construcción lógica.
               li
                 i.fas.fa-angle-right.cab
-                p Actividades operativas: Tareas que se deben ejecutar, para continuar con otra actividad.
+                p Actividades operativas: tareas que se deben ejecutar, para continuar con otra actividad.
               li
                 i.fas.fa-angle-right.cab
                 p Actividades sombrilla: conocidas como actividades resumen y representan una fase, pero necesitan otras actividades para su conclusión.
@@ -230,7 +230,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Recopilación de datos
-            p Durante el proceso de recolección de información se almacenarán los datos y se proyectará un cronograma con fechas de entrega que podrá modificarse durante el desarrollo del proyecto según imprevistos que se puedan presentar
+            p Durante el proceso de recolección de información se almacenarán los datos y se proyectará un cronograma con fechas de entrega que podrá modificarse durante el desarrollo del proyecto según imprevistos que se puedan presentar.
           .col-md-4.mx-auto
             img(src='@/assets/curso/t1/f18.svg', alt='Imagen relacionada')
         .row
@@ -242,8 +242,8 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Los tiempos
-            p n cuanto se determine el orden de realización de las tareas es necesario clarificar cuanto tiempo se necesita para hacerlas y los recursos necesarios para esto
-            p El cronograma requiere de permanente revisión en tanto se va llevando a cabo cada fase del proyecto y con esto será posible ajustar los cambios que se vaya dando durante el proceso
+            p n cuanto se determine el orden de realización de las tareas es necesario clarificar cuanto tiempo se necesita para hacerlas y los recursos necesarios para esto.
+            p El cronograma requiere de permanente revisión en tanto se va llevando a cabo cada fase del proyecto y con esto será posible ajustar los cambios que se vaya dando durante el proceso.
           .col-md-4.mx-auto
             img(src='@/assets/curso/t1/f20.svg', alt='Imagen relacionada')
     Separador
@@ -272,7 +272,8 @@
           .tarjeta.color-primario
             .p-4.text-center
               p Son las personas que acompañarán todo el proceso, se definen funciones para cada uno y ser asignaran las actividades identificadas por cada perfil. 
-              p Cada fase del proyecto requerirá  diferentes perfiles por eso la importancia de ubicar lo mejor posible a todo el personal y definir funciones y responsabilidades
+              p Cada fase del proyecto requerirá  diferentes perfiles por eso la importancia de ubicar lo mejor posible a todo el personal y definir funciones y responsabilidades.
+              
     p En la planeación de proyectos es importante tener presente las etapas y elementos que se presentaron, estas permitirán gestionar las actividades, estimar los recursos, minimizar costos, lograr los objetivos que responden a las necesidades reales.
 </template>
 

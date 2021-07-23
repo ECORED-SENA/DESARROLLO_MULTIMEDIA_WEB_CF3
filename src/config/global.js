@@ -283,47 +283,47 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Eduardo José Velasco Acevedo',
         cargo: 'Experto temático',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Juan Manuel Reyes Ramírez',
         cargo: 'Experto temático',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Carlos Andrés Suescun Lesmes',
         cargo: 'Experto temático',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Olga Lucía Mogollón Carvajal',
         cargo: 'Experto temático',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Giovanna Escobar',
         cargo: 'Diseñadora Instruccional',
-        centro: 'Centro de Servicios de Salud Regional Antioquia',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Revisor Metodológico y Pedagógico',
-        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',
         cargo: 'Diseñador y evaluador instruccional',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -331,43 +331,43 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Marcela González',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Walter Roa Serrano',
         cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      } /*
-      {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
-      {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },*/,
+      // {
+      //   nombre: 'Nombre',
+      //   cargo: 'Producción audiovisual',
+      //   centro:
+      //     'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      // },
+      // {
+      //   nombre: 'Nombre',
+      //   cargo: 'Validación de diseño y contenido',
+      //   centro:
+      //     'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      // },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

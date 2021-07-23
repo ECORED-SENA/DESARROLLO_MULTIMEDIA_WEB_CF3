@@ -51,36 +51,26 @@
           figure
             img(src='@/assets/curso/t2/i-infografica1.png', alt='Design Thinking')
             //figcaption Leyenda de la imagen
-        .tarjeta-avatar.infografica3.mb-5(x="17%" y="67%")
-          img(src='@/assets/curso/t2/c1.svg' alt='Empatizar')
-          .tarjeta.color-acento-botones
-            .p-4
-              h4.text-center Fase 1:
-              p.text-center Empatía.<br><br>Investigar las necesidades de tus usuarios. Se trata de entender empáticamente el problema que está tratando de resolver. Por lo tanto, esta fase suele comenzar por la investigación del usuario o consumidor.
-        .tarjeta-avatar.infografica3.mb-5(x="17%" y="33%")
-          img(src='@/assets/curso/t2/c2.svg' alt='Definir')
-          .tarjeta.color-acento-botones
-            .p-4
-              h4.text-center Fase 2:
-              p.text-center Definir.<br><br>Identificar las necesidades y los problemas de sus usuarios. Es hora de poner sobre la mesa la información recopilada durante la primera etapa. Se analizan todas las observaciones y se sintetizan para definir los problemas centrales que el equipo ha identificado.
-        .tarjeta-avatar.infografica3.mb-5(x="47%" y="15%")
-          img(src='@/assets/curso/t2/c3.svg' alt='Idear')
-          .tarjeta.color-acento-botones
-            .p-4.text-center
-              h4.text-center Fase 3:
-              p.text-center Idear.<br><br>En esta fase, se trata de generar cuantas ideas sea posible. Se trata de “pensar fuera de la caja”, buscar formas alternativas de ver el problema e identificar soluciones innovadoras para el planteamiento del problema.
-        .tarjeta-avatar.infografica3.mb-5(x="78%" y="32%")
-          img(src='@/assets/curso/t2/c4.svg' alt='Prototipar')
-          .tarjeta.color-acento-botones
-            .p-4.text-center
-              h4.text-center Fase 4:
-              p Prototipar.<br><br>Construir soluciones. Inicialmente se identifica la mejor solución para cada problema encontrado. A continuación, el equipo tiene que construir versiones económicas y muy primitivas de lo que sería el producto final, aunque sea en papel.
-        .tarjeta-avatar.infografica3.mb-5(x="77%" y="67%")
-          img(src='@/assets/curso/t2/c5.svg' alt='Testear')
-          .tarjeta.color-acento-botones
-            .p-4.text-center
-              h4.text-center Fase 5:
-              p Testear o probar.<br><br>Probar los prototipos es la última de las fases del proceso de Design Thinking. Existe una figura –la de los evaluadores–, que se encarga de probar rigurosamente los prototipos. Por lo tanto, es posibles volver a las etapas anteriores para realizar más iteraciones, alteraciones y refinamientos.
+        .tarjeta-avatar.infografica3.mb-5(x="17%" y="67%")          
+          .tarjeta.color-acento-botones.p-4
+            h4.text-center Fase 1:
+            p.text-center Empatía.<br><br>Investigar las necesidades de tus usuarios. Se trata de entender empáticamente el problema que está tratando de resolver. Por lo tanto, esta fase suele comenzar por la investigación del usuario o consumidor.
+        .tarjeta-avatar.infografica3.mb-5(x="17%" y="33%")          
+          .tarjeta.color-acento-botones.p-4            
+            h4.text-center Fase 2:
+            p.text-center Definir.<br><br>Identificar las necesidades y los problemas de sus usuarios. Es hora de poner sobre la mesa la información recopilada durante la primera etapa. Se analizan todas las observaciones y se sintetizan para definir los problemas centrales que el equipo ha identificado.
+        .tarjeta-avatar.infografica3.mb-5(x="47%" y="15%")         
+          .tarjeta.color-acento-botones.p-4            
+            h4.text-center Fase 3:
+            p.text-center Idear.<br><br>En esta fase, se trata de generar cuantas ideas sea posible. Se trata de “pensar fuera de la caja”, buscar formas alternativas de ver el problema e identificar soluciones innovadoras para el planteamiento del problema.
+        .tarjeta-avatar.infografica3.mb-5(x="78%" y="32%")          
+          .tarjeta.color-acento-botones.p-4            
+            h4.text-center Fase 4:
+            p.text-center Prototipar.<br><br>Construir soluciones. Inicialmente se identifica la mejor solución para cada problema encontrado. A continuación, el equipo tiene que construir versiones económicas y muy primitivas de lo que sería el producto final, aunque sea en papel.
+        .tarjeta-avatar.infografica3.mb-5(x="77%" y="67%")          
+          .tarjeta.color-acento-botones.p-4
+            h4.text-center Fase 5:
+            p.text-center Testear o probar.<br><br>Probar los prototipos es la última de las fases del proceso de Design Thinking. Existe una figura –la de los evaluadores–, que se encarga de probar rigurosamente los prototipos. Por lo tanto, es posibles volver a las etapas anteriores para realizar más iteraciones, alteraciones y refinamientos.
 </template>
 
 <script>
