@@ -10,8 +10,10 @@
     p.mb-5 En el siguiente recurso didáctico se dará la introducción al componente de formación:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ccSFFRMa2Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/3yMdQVC4z-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       //figcaption Video: Leyenda del video    
+
+       
 </template>
 
 <script>
