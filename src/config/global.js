@@ -135,10 +135,6 @@ export default {
   },
   referencias: [
     {
-      referencia: 'Castro, L. (2020). Pensamiento creativo. Docsity.',
-      link: 'https://www.docsity.com/es/pensamiento-creativo-4/5860654',
-    },
-    {
       referencia:
         'Ejemplo.de. (2017). Ejemplo de cronograma de actividades. Ejemplo.de.',
       link: 'http://www.ejemplo.de/cronograma-de-actividades/',
@@ -158,12 +154,6 @@ export default {
       referencia: 'Gonzales, R. (2020). Mapa mental. Academia.edu.',
       link:
         'https://www.academia.edu/43118741/Un_mapa_mental_es_un_diagrama_usado_para_representar_palabras20200520_82054_vfja71',
-    },
-    {
-      referencia:
-        'Mendoza Quispe, J. y Roncoroni, J. (2020). Marketing. Docsity.',
-      link:
-        'https://www.docsity.com/es/marketing-es-la-ciencia-y-el-arte-de-explorar-crear-y-entregar-valor-para-satisfacer-necesidades-de-un-mercado-objetivo-con-lucro-el-marketing-identifica-necesidades-y-deseos-no/7028766',
     },
     {
       referencia: 'Raffino, M. (2020). Objetivo General. Concepto.',
@@ -265,7 +255,7 @@ export default {
     },
     {
       texto:
-        'Trino. (2019). Conceptualización en diseño gráfico. [video]. YouTube. ',
+        'Trino. (2019). ¿Cual es el SIGNIFICADO de CONCEPTUALIZAR en DISEÑO GRÁFICO ? - Explicación Parte 1. [video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=VJSxa7YOJxc',
     },
